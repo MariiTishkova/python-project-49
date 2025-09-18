@@ -1,1 +1,1 @@
-from srcipts.brain_games import print_greeting
+from brain_games import print_greeting
