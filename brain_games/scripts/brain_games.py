@@ -1,1 +1,1 @@
-from main import main
+print('Welcome to the Brain Games!')
